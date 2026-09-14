@@ -36,7 +36,7 @@ export default function SobrePage() {
               Bem-vindo ao nosso restaurante
             </h2>
 
-            <p className="mb-5 text-lg leading-8 text-gray-600">
+            <p className="pink-600 mb-6 text-lg leading-8 text-gray-600">
               Somos um restaurante dedicado a oferecer comida saborosa,
               preparada com ingredientes selecionados e muito carinho.
             </p>
